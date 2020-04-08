@@ -1,7 +1,7 @@
 # "Software Development from A to Z" Video Course
 ## Source code
 
-**[Bestseller Software Development course on Udemy](https://www.udemy.com/course/software-development-from-a-to-z/?referralCode=AD42E5F8AE145B0352C2)** 
+**[Check out my Bestseller Software Development Course on Udemy](https://www.udemy.com/course/software-development-from-a-to-z/?referralCode=AD42E5F8AE145B0352C2).**
 Get the essential skills to become a successful software engineer. Extra Bonus: Free e-book version included!
 
 Explore the core concepts of software development using simple, easy-to-understand terms. Get insights into the life of professional coders and acquire technical skills. Get up to speed with programming in Python fast.
